@@ -1,0 +1,26 @@
+{
+  "name": "jukebox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.2",
+    "node-eta": "^0.9.0",
+    "request": "^2.83.0",
+    "ytdl-core": "^0.18.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titarenko/jukebox.git"
+  },
+  "author": "Constantin Titarenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/titarenko/jukebox/issues"
+  },
+  "homepage": "https://github.com/titarenko/jukebox#readme"
+}
